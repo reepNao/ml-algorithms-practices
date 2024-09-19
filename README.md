@@ -22,6 +22,14 @@ This repository contains a set of scripts and code snippets for evaluating and t
 
 7-Model Performance Evaluation
 
+## Usage
+
+Before running the code, you need to extract the input.zip folder and then run the requirements.txt file.
+The input.zip folder contains the data we are going to use, while the requirements.txt file is downloaded if there are no libraries to use
+```bash
+pip install -r requirements.txt
+```
+
 
 ### 1. Data Preparation
 This section involves loading and preparing the data for analysis.
